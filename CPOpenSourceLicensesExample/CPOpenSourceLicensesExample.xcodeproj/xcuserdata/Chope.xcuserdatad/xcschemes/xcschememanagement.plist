@@ -4,15 +4,15 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CPOpenSourceLicenses.xcscheme</key>
+		<key>CPOpenSourceLicensesExample.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>1D9445EB1E8EB92000EA4ECF</key>
+		<key>1D9445FF1E8EBA5100EA4ECF</key>
 		<dict>
 			<key>primary</key>
 			<true />

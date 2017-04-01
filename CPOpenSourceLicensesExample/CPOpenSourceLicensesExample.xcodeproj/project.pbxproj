@@ -1,0 +1,384 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D9446041E8EBA5100EA4ECF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9446031E8EBA5100EA4ECF /* AppDelegate.swift */; };
+		1D9446061E8EBA5100EA4ECF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9446051E8EBA5100EA4ECF /* ViewController.swift */; };
+		1D9446091E8EBA5100EA4ECF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D9446071E8EBA5100EA4ECF /* Main.storyboard */; };
+		1D94460B1E8EBA5100EA4ECF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D94460A1E8EBA5100EA4ECF /* Assets.xcassets */; };
+		1D94460E1E8EBA5100EA4ECF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D94460C1E8EBA5100EA4ECF /* LaunchScreen.storyboard */; };
+		1D9446161E8EBAC500EA4ECF /* CPOpenSourceLicenses.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D9446151E8EBAC500EA4ECF /* CPOpenSourceLicenses.framework */; };
+		1D9446171E8EBAC500EA4ECF /* CPOpenSourceLicenses.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 1D9446151E8EBAC500EA4ECF /* CPOpenSourceLicenses.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		1D9446251E8EBC6100EA4ECF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1D9446211E8EBC6100EA4ECF /* CPOpenSourceLicenses.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 1D9445EC1E8EB92000EA4ECF;
+			remoteInfo = CPOpenSourceLicenses;
+		};
+		1D9446271E8EBC7F00EA4ECF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1D9446211E8EBC6100EA4ECF /* CPOpenSourceLicenses.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 1D9445EB1E8EB92000EA4ECF;
+			remoteInfo = CPOpenSourceLicenses;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		1D9446181E8EBAC500EA4ECF /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				1D9446171E8EBAC500EA4ECF /* CPOpenSourceLicenses.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		1D9446001E8EBA5100EA4ECF /* CPOpenSourceLicensesExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CPOpenSourceLicensesExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D9446031E8EBA5100EA4ECF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		1D9446051E8EBA5100EA4ECF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		1D9446081E8EBA5100EA4ECF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		1D94460A1E8EBA5100EA4ECF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1D94460D1E8EBA5100EA4ECF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		1D94460F1E8EBA5100EA4ECF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D9446151E8EBAC500EA4ECF /* CPOpenSourceLicenses.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = CPOpenSourceLicenses.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D9446211E8EBC6100EA4ECF /* CPOpenSourceLicenses.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CPOpenSourceLicenses.xcodeproj; path = ../CPOpenSourceLicenses.xcodeproj; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D9445FD1E8EBA5100EA4ECF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D9446161E8EBAC500EA4ECF /* CPOpenSourceLicenses.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1D9445F71E8EBA5100EA4ECF = {
+			isa = PBXGroup;
+			children = (
+				1D9446021E8EBA5100EA4ECF /* CPOpenSourceLicensesExample */,
+				1D9446011E8EBA5100EA4ECF /* Products */,
+				1D9446151E8EBAC500EA4ECF /* CPOpenSourceLicenses.framework */,
+				1D9446211E8EBC6100EA4ECF /* CPOpenSourceLicenses.xcodeproj */,
+			);
+			sourceTree = "<group>";
+		};
+		1D9446011E8EBA5100EA4ECF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D9446001E8EBA5100EA4ECF /* CPOpenSourceLicensesExample.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1D9446021E8EBA5100EA4ECF /* CPOpenSourceLicensesExample */ = {
+			isa = PBXGroup;
+			children = (
+				1D9446031E8EBA5100EA4ECF /* AppDelegate.swift */,
+				1D9446051E8EBA5100EA4ECF /* ViewController.swift */,
+				1D9446071E8EBA5100EA4ECF /* Main.storyboard */,
+				1D94460A1E8EBA5100EA4ECF /* Assets.xcassets */,
+				1D94460C1E8EBA5100EA4ECF /* LaunchScreen.storyboard */,
+				1D94460F1E8EBA5100EA4ECF /* Info.plist */,
+			);
+			path = CPOpenSourceLicensesExample;
+			sourceTree = "<group>";
+		};
+		1D9446221E8EBC6100EA4ECF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D9446261E8EBC6100EA4ECF /* CPOpenSourceLicenses.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D9445FF1E8EBA5100EA4ECF /* CPOpenSourceLicensesExample */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D9446121E8EBA5100EA4ECF /* Build configuration list for PBXNativeTarget "CPOpenSourceLicensesExample" */;
+			buildPhases = (
+				1D9445FC1E8EBA5100EA4ECF /* Sources */,
+				1D9445FD1E8EBA5100EA4ECF /* Frameworks */,
+				1D9445FE1E8EBA5100EA4ECF /* Resources */,
+				1D9446181E8EBAC500EA4ECF /* Embed Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1D9446281E8EBC7F00EA4ECF /* PBXTargetDependency */,
+			);
+			name = CPOpenSourceLicensesExample;
+			productName = CPOpenSourceLicensesExample;
+			productReference = 1D9446001E8EBA5100EA4ECF /* CPOpenSourceLicensesExample.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1D9445F81E8EBA5100EA4ECF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = ChopeIndustry;
+				TargetAttributes = {
+					1D9445FF1E8EBA5100EA4ECF = {
+						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = JKB83V3G9Q;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 1D9445FB1E8EBA5100EA4ECF /* Build configuration list for PBXProject "CPOpenSourceLicensesExample" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1D9445F71E8EBA5100EA4ECF;
+			productRefGroup = 1D9446011E8EBA5100EA4ECF /* Products */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 1D9446221E8EBC6100EA4ECF /* Products */;
+					ProjectRef = 1D9446211E8EBC6100EA4ECF /* CPOpenSourceLicenses.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				1D9445FF1E8EBA5100EA4ECF /* CPOpenSourceLicensesExample */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		1D9446261E8EBC6100EA4ECF /* CPOpenSourceLicenses.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = CPOpenSourceLicenses.framework;
+			remoteRef = 1D9446251E8EBC6100EA4ECF /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D9445FE1E8EBA5100EA4ECF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D94460E1E8EBA5100EA4ECF /* LaunchScreen.storyboard in Resources */,
+				1D94460B1E8EBA5100EA4ECF /* Assets.xcassets in Resources */,
+				1D9446091E8EBA5100EA4ECF /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D9445FC1E8EBA5100EA4ECF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D9446061E8EBA5100EA4ECF /* ViewController.swift in Sources */,
+				1D9446041E8EBA5100EA4ECF /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1D9446281E8EBC7F00EA4ECF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = CPOpenSourceLicenses;
+			targetProxy = 1D9446271E8EBC7F00EA4ECF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		1D9446071E8EBA5100EA4ECF /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1D9446081E8EBA5100EA4ECF /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		1D94460C1E8EBA5100EA4ECF /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1D94460D1E8EBA5100EA4ECF /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1D9446101E8EBA5100EA4ECF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		1D9446111E8EBA5100EA4ECF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1D9446131E8EBA5100EA4ECF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = JKB83V3G9Q;
+				INFOPLIST_FILE = CPOpenSourceLicensesExample/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = net.chopestory.CPOpenSourceLicensesExample;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		1D9446141E8EBA5100EA4ECF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = JKB83V3G9Q;
+				INFOPLIST_FILE = CPOpenSourceLicensesExample/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = net.chopestory.CPOpenSourceLicensesExample;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D9445FB1E8EBA5100EA4ECF /* Build configuration list for PBXProject "CPOpenSourceLicensesExample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D9446101E8EBA5100EA4ECF /* Debug */,
+				1D9446111E8EBA5100EA4ECF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1D9446121E8EBA5100EA4ECF /* Build configuration list for PBXNativeTarget "CPOpenSourceLicensesExample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D9446131E8EBA5100EA4ECF /* Debug */,
+				1D9446141E8EBA5100EA4ECF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1D9445F81E8EBA5100EA4ECF /* Project object */;
+}
