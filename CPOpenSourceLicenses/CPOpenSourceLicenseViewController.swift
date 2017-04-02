@@ -11,12 +11,12 @@ public protocol CPOpenSourceLicenseView {
     init()
 }
 
-public class CPOpenSourceLicenseViewController: UIViewController, CPOpenSourceLicenseView {
+open class CPOpenSourceLicenseViewController: UIViewController, CPOpenSourceLicenseView {
     public var openSource: CPOpenSource?
 
-    private let textView = UITextView()
+    public let textView = UITextView()
 
-    public override func viewDidLoad() {
+    open override func viewDidLoad() {
         super.viewDidLoad()
 
         textView.isEditable = false
@@ -25,19 +25,15 @@ public class CPOpenSourceLicenseViewController: UIViewController, CPOpenSourceLi
         automaticallyAdjustsScrollViewInsets = true
 
         view.addSubview(textView)
-
-//        let backBarButtonItem = UIBarButtonItem(title: "뮤", style: .plain, target: nil, action: nil)
-//        backBarButtonItem.setBackButtonTitlePositionAdjustment(UIOffset(horizontal: -100, vertical: -100), for: .default)
-//        navigationItem.backBarButtonItem = backBarButtonItem
     }
 
-    public override func viewDidLayoutSubviews() {
+    open override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
 
         textView.frame = view.bounds
     }
                                                                                                    
-    public override func viewWillAppear(_ animated: Bool) {
+    open override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
 
         guard let openSource = openSource else {
