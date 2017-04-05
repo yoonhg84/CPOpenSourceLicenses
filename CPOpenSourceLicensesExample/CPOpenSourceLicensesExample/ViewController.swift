@@ -31,6 +31,7 @@ class ViewController: UIViewController {
                 CPOpenSource(title: "Alamofire", license: .mit(year: "2014-2016", fullname: "Alamofire Software Foundation (http://alamofire.org/)")),
                 CPOpenSource(title: "Realm", license: .apacheLicense2),
                 CPOpenSource(title: "Wire", license: .gnuGPLv3(project: nil, year: nil, fullname: nil, nameOfAuthor: nil)),
+                CPOpenSource(title: "A", license: .custom(title: "B", text: "C"))
         ]
         vc.openSourceLicenseViewClass = LicenseViewController.self
         present(UINavigationController(rootViewController: vc), animated: true)

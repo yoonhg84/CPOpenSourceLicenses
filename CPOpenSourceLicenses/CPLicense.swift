@@ -13,6 +13,7 @@ public enum CPLicense {
     case apacheLicense2
     case mit(year: String?, fullname: String?)
     case theUnlicense
+    case custom(title: String, text: String)
 }
 
 public extension CPLicense {
@@ -32,6 +33,8 @@ public extension CPLicense {
             return "MIT"
         case .theUnlicense:
             return "The Unlicense"
+        case .custom(let title, _):
+            return title
         }
     }
 
@@ -61,6 +64,8 @@ public extension CPLicense {
                 result = result.replacingOccurrences(of: element.0, with: text)
             }
             return result
+        case .custom(_, let text):
+            return text
         default:
             return rawText
         }
@@ -71,7 +76,7 @@ public extension CPLicense {
         return try? String(contentsOfFile: path)
     }
     
-    private var filename: String {
+    private var filename: String? {
         switch self {
         case .gnuAGPLv3:
             return "GNUAfferoGeneralPublicLicenseV3.0"
@@ -87,6 +92,8 @@ public extension CPLicense {
             return "MIT"
         case .theUnlicense:
             return "TheUnlicense"
+        case .custom:
+            return nil
         }
     }
 }
