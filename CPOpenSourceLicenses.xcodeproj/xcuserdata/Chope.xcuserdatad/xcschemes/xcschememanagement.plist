@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CPOpenSourceLicenses.xcscheme</key>
+		<key>CPOpenSourceLicenses.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>1</integer>
@@ -15,7 +15,7 @@
 		<key>1D9445EB1E8EB92000EA4ECF</key>
 		<dict>
 			<key>primary</key>
-			<true />
+			<true/>
 		</dict>
 	</dict>
 </dict>
