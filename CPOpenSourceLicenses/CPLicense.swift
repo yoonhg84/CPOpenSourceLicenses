@@ -103,9 +103,3 @@ private class CPLicenseBundle { }
 private extension Bundle {
     static var current = Bundle(for: CPLicenseBundle.self)
 }
-
-private extension String {
-    func replacing(text: String, to: String) {
-
-    }
-}

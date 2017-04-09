@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30fa20b8-68ed-4572-a92d-b373840630e0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CPOpenSourceLicenses.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/../CPOpenSourceLicenses.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSourceLicenseViewController.swift" afterPath="$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSourceLicenseViewController.swift" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CPOpenSourceLicensesExample.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CPOpenSourceLicensesExample.xcworkspace/xcuserdata/Chope.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CPOpenSourceLicenses.xcodeproj/xcuserdata/Chope.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/../CPOpenSourceLicenses.xcodeproj/xcuserdata/Chope.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CPOpenSourceLicenses/CPLicense.swift" afterPath="$PROJECT_DIR$/../CPOpenSourceLicenses/CPLicense.swift" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/xcode.xml" afterPath="$PROJECT_DIR$/.idea/xcode.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CPOpenSourceLicensesExample.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/CPOpenSourceLicensesExample.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CPOpenSourceLicensesExample/ViewController.swift" afterPath="$PROJECT_DIR$/CPOpenSourceLicensesExample/ViewController.swift" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../README.md" afterPath="$PROJECT_DIR$/../README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,90 +19,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulatoriPhone_6s_10.3_x86_64_1" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CPLicense.swift" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/CPLicense.swift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="33" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CPOpenSource.swift" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSource.swift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CPOpenSourceLicenseViewController.swift" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSourceLicenseViewController.swift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CPOpenSourceLibraryTableViewCell.swift" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSourceLibraryTableViewCell.swift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ViewController.swift" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CPOpenSourceLicensesExample/ViewController.swift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="49" selection-end-column="1" />
-              <folding>
-                <element signature="e#162#174#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UIKit.UITextView.swift" pinned="false" current-in-tab="false">
-        <entry file="mock:///UIKit.UITextView.swift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="62" column="13" lean-forward="false" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MIT.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/Licenses/MIT.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CPOpenSourceLicenses.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSourceLicenses.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -112,6 +30,7 @@
       <find>case</find>
       <find>\n</find>
       <find>{pro</find>
+      <find>filename</find>
     </findStrings>
     <replaceStrings>
       <replace>case .</replace>
@@ -142,9 +61,12 @@
         <option value="$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSource.swift" />
         <option value="$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSourceLibraryTableViewCell.swift" />
         <option value="$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSourceLibrariesViewController.swift" />
-        <option value="$PROJECT_DIR$/../CPOpenSourceLicenses/CPLicense.swift" />
         <option value="$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSourceLicenseViewController.swift" />
+        <option value="$PROJECT_DIR$/../CPOpenSourceLicenses/CPLicense.swift" />
         <option value="$PROJECT_DIR$/CPOpenSourceLicensesExample/ViewController.swift" />
+        <option value="$PROJECT_DIR$/Podfile" />
+        <option value="$PROJECT_DIR$/Podfile.lock" />
+        <option value="$PROJECT_DIR$/../CPGenerateCocoapods/CPGenerateCocoapods/main.swift" />
       </list>
     </option>
   </component>
@@ -155,10 +77,45 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1440" />
+    <option name="x" value="1441" />
     <option name="y" value="22" />
-    <option name="width" value="1194" />
-    <option name="height" value="763" />
+    <option name="width" value="1392" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>C/C++</id>
+          </State>
+          <State>
+            <id>FunctionsC/C++</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralObjective-C</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Objective-C</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -198,40 +155,8 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CPOpenSourceLicensesExample" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CPOpenSourceLicensesExample" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="CPOpenSourceLicenses" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CPOpenSourceLicensesExample" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CPOpenSourceLicenses" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CPOpenSourceLicenses" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -243,8 +168,7 @@
     <property name="options.lastSelected" value="configurable.group.appearance" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="CPOpenSourceLicenses" />
     <property name="OverrideImplement.combined" value="true" />
@@ -344,12 +268,15 @@
       <workItem from="1490978071877" duration="13712000" />
       <workItem from="1491061987472" duration="14000" />
       <workItem from="1491062034564" duration="445000" />
-      <workItem from="1491148044647" duration="1915000" />
+      <workItem from="1491148044647" duration="2513000" />
+      <workItem from="1491341717692" duration="2610000" />
+      <workItem from="1491726718755" duration="2691000" />
+      <workItem from="1491747526723" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16086000" />
+    <option name="totallyTimeSpent" value="21999000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -361,22 +288,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="22" width="1194" height="763" extended-state="0" />
-    <editor active="true" />
+    <frame x="1441" y="22" width="1392" height="878" extended-state="0" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29497015" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29394603" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32713178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3782946" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37763157" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34473684" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -393,90 +319,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/CPLicense.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSource.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSourceLicenseViewController.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSourceLibrariesViewController.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="27" lean-forward="false" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSourceLibraryTableViewCell.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CPOpenSourceLicensesExample/AppDelegate.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CPOpenSourceLicensesExample/ViewController.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#162#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/Licenses/GNUGeneralPublicLicenseV3.0.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9495">
-          <caret line="633" column="5" lean-forward="false" selection-start-line="633" selection-start-column="4" selection-end-line="633" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/Licenses/MozillaPublicLicense2.0.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5580">
-          <caret line="372" column="48" lean-forward="false" selection-start-line="372" selection-start-column="48" selection-end-line="372" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/Licenses/MIT.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -500,7 +351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -508,7 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="51" column="27" lean-forward="false" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -516,7 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -524,7 +372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -532,9 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-          <folding>
-            <element signature="e#162#174#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -542,7 +386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9495">
           <caret line="633" column="5" lean-forward="false" selection-start-line="633" selection-start-column="4" selection-end-line="633" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -550,7 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5580">
           <caret line="372" column="48" lean-forward="false" selection-start-line="372" selection-start-column="48" selection-end-line="372" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -574,7 +416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -582,7 +423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="51" column="27" lean-forward="false" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -590,7 +430,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -598,7 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -606,9 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-          <folding>
-            <element signature="e#162#174#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -616,7 +451,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9495">
           <caret line="633" column="5" lean-forward="false" selection-start-line="633" selection-start-column="4" selection-end-line="633" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -624,7 +458,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5580">
           <caret line="372" column="48" lean-forward="false" selection-start-line="372" selection-start-column="48" selection-end-line="372" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -632,7 +465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -675,7 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -683,7 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="51" column="27" lean-forward="false" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -691,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,7 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="590">
           <caret line="633" column="5" lean-forward="false" selection-start-line="633" selection-start-column="4" selection-end-line="633" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -720,41 +548,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="590">
           <caret line="372" column="48" lean-forward="false" selection-start-line="372" selection-start-column="48" selection-end-line="372" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/Licenses/MIT.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSourceLicenseViewController.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
+        <state relative-caret-position="270">
           <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CPOpenSourceLicensesExample/ViewController.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="49" selection-end-column="1" />
-          <folding>
-            <element signature="e#162#174#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="420">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSource.swift">
+    <entry file="file://$PROJECT_DIR$/../../TeamCNN/OroraNote/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="-1847">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -766,13 +580,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/CPLicense.swift">
+    <entry file="file://$PROJECT_DIR$/../../TeamCNN/OroraNote/Podfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="33" selection-end-column="34" />
+        <state relative-caret-position="539">
+          <caret line="71" column="41" lean-forward="false" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Podfile.lock" />
+    <entry file="file://$PROJECT_DIR$/../../TeamCNN/OroraNote/Cartfile.resolved">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/Licenses/MIT.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/CPOpenSource.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/CPLicense.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="110" column="1" lean-forward="false" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CPOpenSourceLicenses/GenerateCocoapods.py" />
+    <entry file="file://$PROJECT_DIR$/Pods/Target Support Files/Pods-CPOpenSourceLicensesExample/Pods-CPOpenSourceLicensesExample.modulemap" />
+    <entry file="file://$PROJECT_DIR$/Pods/Target Support Files/Pods-CPOpenSourceLicensesExample/Pods-CPOpenSourceLicensesExample.release.xcconfig" />
+    <entry file="file://$PROJECT_DIR$/Pods/Target Support Files/Pods-CPOpenSourceLicensesExample/Pods-CPOpenSourceLicensesExample-dummy.m" />
+    <entry file="file://$PROJECT_DIR$/Pods/Target Support Files/Pods-CPOpenSourceLicensesExample/Pods-CPOpenSourceLicensesExample-frameworks.sh" />
+    <entry file="file://$PROJECT_DIR$/Pods/Target Support Files/Pods-CPOpenSourceLicensesExample/Pods-CPOpenSourceLicensesExample-acknowledgements.markdown" />
+    <entry file="file://$PROJECT_DIR$/Podfile" />
+    <entry file="file://$PROJECT_DIR$/Pods/Target Support Files/Pods-CPOpenSourceLicensesExample/Pods-CPOpenSourceLicensesExample-acknowledgements.plist" />
+    <entry file="file://$PROJECT_DIR$/../CPGenerateCocoapods/CPGenerateCocoapods/main.swift" />
   </component>
 </project>

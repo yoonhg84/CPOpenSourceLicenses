@@ -12,8 +12,6 @@
 		1D9446091E8EBA5100EA4ECF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D9446071E8EBA5100EA4ECF /* Main.storyboard */; };
 		1D94460B1E8EBA5100EA4ECF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D94460A1E8EBA5100EA4ECF /* Assets.xcassets */; };
 		1D94460E1E8EBA5100EA4ECF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D94460C1E8EBA5100EA4ECF /* LaunchScreen.storyboard */; };
-		1D9446161E8EBAC500EA4ECF /* CPOpenSourceLicenses.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D9446151E8EBAC500EA4ECF /* CPOpenSourceLicenses.framework */; };
-		1D9446171E8EBAC500EA4ECF /* CPOpenSourceLicenses.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 1D9446151E8EBAC500EA4ECF /* CPOpenSourceLicenses.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,7 +38,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				1D9446171E8EBAC500EA4ECF /* CPOpenSourceLicenses.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -55,7 +52,6 @@
 		1D94460A1E8EBA5100EA4ECF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D94460D1E8EBA5100EA4ECF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D94460F1E8EBA5100EA4ECF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1D9446151E8EBAC500EA4ECF /* CPOpenSourceLicenses.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = CPOpenSourceLicenses.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D9446211E8EBC6100EA4ECF /* CPOpenSourceLicenses.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CPOpenSourceLicenses.xcodeproj; path = ../CPOpenSourceLicenses.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,7 +60,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1D9446161E8EBAC500EA4ECF /* CPOpenSourceLicenses.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -76,7 +71,6 @@
 			children = (
 				1D9446021E8EBA5100EA4ECF /* CPOpenSourceLicensesExample */,
 				1D9446011E8EBA5100EA4ECF /* Products */,
-				1D9446151E8EBAC500EA4ECF /* CPOpenSourceLicenses.framework */,
 				1D9446211E8EBC6100EA4ECF /* CPOpenSourceLicenses.xcodeproj */,
 			);
 			sourceTree = "<group>";
