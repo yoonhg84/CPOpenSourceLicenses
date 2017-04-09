@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1D9445F11E8EB92000EA4ECF /* CPOpenSourceLicenses.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D9445EF1E8EB92000EA4ECF /* CPOpenSourceLicenses.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3E11B01D9AEB45253E0AE12E /* ApacheLicense2.0.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3E11B1DDF9AAA4EEF0653495 /* ApacheLicense2.0.txt */; };
 		3E11B091EA161399A53EDCBE /* CPOpenSourceLicenseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E11B5440AC85B260F914F1B /* CPOpenSourceLicenseViewController.swift */; };
 		3E11B3AC0E9CE7257948D099 /* CPOpenSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E11B6F93E031E41F7056540 /* CPOpenSource.swift */; };
@@ -17,6 +16,7 @@
 		3E11BC09B99E31C7B6EB655C /* GNUAfferoGeneralPublicLicenseV3.0.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3E11B87F8D1F70C1672E45FB /* GNUAfferoGeneralPublicLicenseV3.0.txt */; };
 		3E11BC8544BEC9444AC69EDB /* GNUGeneralPublicLicenseV3.0.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3E11B67C8EC9F999D48A0A0B /* GNUGeneralPublicLicenseV3.0.txt */; };
 		3E11BE35D0D88E89DF16A0AC /* CPLicense.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E11B5B73385EFB5F6F39D0F /* CPLicense.swift */; };
+		3E11BE715D492C4B27F7A672 /* CPOpenSourceLicenses.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 3E11BD6DA40445EF71A4D05F /* CPOpenSourceLicenses.podspec */; };
 		3E11BEC4507830C154693E71 /* MozillaPublicLicense2.0.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3E11B684CBDF9406A44CF84A /* MozillaPublicLicense2.0.txt */; };
 		3E11BEDB1FB8F0DBB4F046F6 /* TheUnlicense.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3E11B95BEF904691A0869589 /* TheUnlicense.txt */; };
 		3E11BF6475D8B9BFF9EB153B /* CPOpenSourceLibraryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E11B56CB4FFFC5E23F6C102 /* CPOpenSourceLibraryTableViewCell.swift */; };
@@ -24,7 +24,6 @@
 
 /* Begin PBXFileReference section */
 		1D9445EC1E8EB92000EA4ECF /* CPOpenSourceLicenses.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CPOpenSourceLicenses.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		1D9445EF1E8EB92000EA4ECF /* CPOpenSourceLicenses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CPOpenSourceLicenses.h; sourceTree = "<group>"; };
 		1D9445F01E8EB92000EA4ECF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3E11B1DDF9AAA4EEF0653495 /* ApacheLicense2.0.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ApacheLicense2.0.txt; sourceTree = "<group>"; };
 		3E11B5440AC85B260F914F1B /* CPOpenSourceLicenseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CPOpenSourceLicenseViewController.swift; sourceTree = "<group>"; };
@@ -37,6 +36,7 @@
 		3E11B95BEF904691A0869589 /* TheUnlicense.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TheUnlicense.txt; sourceTree = "<group>"; };
 		3E11BA6B1464F21F15CCFBF8 /* MIT.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MIT.txt; sourceTree = "<group>"; };
 		3E11BB7BC0A340DA1FE0F7AB /* GNULesserGeneralPublicLicenseV3.0.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = GNULesserGeneralPublicLicenseV3.0.txt; sourceTree = "<group>"; };
+		3E11BD6DA40445EF71A4D05F /* CPOpenSourceLicenses.podspec */ = {isa = PBXFileReference; lastKnownFileType = file.podspec; path = CPOpenSourceLicenses.podspec; sourceTree = "<group>"; };
 		3E11BE13EF49DBC6240FE256 /* CPOpenSourceLibrariesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CPOpenSourceLibrariesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -56,6 +56,7 @@
 			children = (
 				1D9445EE1E8EB92000EA4ECF /* CPOpenSourceLicenses */,
 				1D9445ED1E8EB92000EA4ECF /* Products */,
+				3E11BD6DA40445EF71A4D05F /* CPOpenSourceLicenses.podspec */,
 			);
 			sourceTree = "<group>";
 		};
@@ -70,7 +71,6 @@
 		1D9445EE1E8EB92000EA4ECF /* CPOpenSourceLicenses */ = {
 			isa = PBXGroup;
 			children = (
-				1D9445EF1E8EB92000EA4ECF /* CPOpenSourceLicenses.h */,
 				1D9445F01E8EB92000EA4ECF /* Info.plist */,
 				3E11B5B73385EFB5F6F39D0F /* CPLicense.swift */,
 				3E11B0FBE6B01FCD515F6DAD /* Licenses */,
@@ -103,7 +103,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1D9445F11E8EB92000EA4ECF /* CPOpenSourceLicenses.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -173,6 +172,7 @@
 				3E11B68523506DEE5946F69D /* GNULesserGeneralPublicLicenseV3.0.txt in Resources */,
 				3E11BC8544BEC9444AC69EDB /* GNUGeneralPublicLicenseV3.0.txt in Resources */,
 				3E11BC09B99E31C7B6EB655C /* GNUAfferoGeneralPublicLicenseV3.0.txt in Resources */,
+				3E11BE715D492C4B27F7A672 /* CPOpenSourceLicenses.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
