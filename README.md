@@ -4,6 +4,10 @@ Shows a list of open source licenses used within the app.
 
 Simply add the license file without looking for it.
 
+## Screenshots
+
+<img src="Resources/1.png" width="160" border="1"/> <img src="Resources/2.png" width="160" border="1"/> <img src="Resources/3.png" width="160" border="1"/>
+
 ## Features
 
 * GNU Affero General Public License v3.0
@@ -13,12 +17,7 @@ Simply add the license file without looking for it.
 * Apache License 2.0
 * MIT
 * The Unlicense
-
-## TODO
-
-* support cocoadpods
-* support carthage
-* support custom
+* Custom
 
 ## Requirements
 
@@ -28,7 +27,15 @@ Simply add the license file without looking for it.
 
 ## Installation
 
-support cocoapods and carthage soon...
+Cocoapods
+```
+pod 'CPOpenSourceLicenses'
+```
+
+Carthage
+```
+github 'yoonhg84/CPOpenSourceLicenses'
+```
 
 ## Usage
 
@@ -70,6 +77,11 @@ class LicenseViewController: CPOpenSourceLicenseViewController {
     }
 }
 ```
+
+## TODO
+
+* generate CPOpenSource from cocoapods
+* generate CPOpenSource from carthage
 
 ## License
 
