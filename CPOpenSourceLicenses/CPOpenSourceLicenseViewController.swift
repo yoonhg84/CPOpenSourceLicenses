@@ -22,7 +22,10 @@ open class CPOpenSourceLicenseViewController: UIViewController, CPOpenSourceLice
         textView.isEditable = false
         textView.isSelectable = true
         textView.textContainerInset = UIEdgeInsets(top: 10, left: 10, bottom: 10, right: 10)
+
         automaticallyAdjustsScrollViewInsets = true
+
+        navigationController?.navigationBar.isTranslucent = false
 
         view.addSubview(textView)
     }

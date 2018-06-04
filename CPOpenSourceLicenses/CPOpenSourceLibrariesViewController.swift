@@ -22,6 +22,7 @@ open class CPOpenSourceLibrariesViewController: UITableViewController {
         tableView.register(CPOpenSourceLibraryTableViewCell.self, forCellReuseIdentifier: cellIdentifier)
 
         title = "Opensource libraries"
+        navigationController?.navigationBar.isTranslucent = false
         navigationItem.backBarButtonItem = UIBarButtonItem(title: "", style: .plain, target: nil, action: nil)
     }
 

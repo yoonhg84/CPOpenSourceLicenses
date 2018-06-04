@@ -33,19 +33,8 @@ class ViewController: UIViewController {
                 CPOpenSource(title: "Wire", license: .gnuGPLv3(project: nil, year: nil, fullname: nil, nameOfAuthor: nil)),
                 CPOpenSource(title: "A", license: .custom(title: "B", text: "C"))
         ]
-        vc.openSourceLicenseViewClass = LicenseViewController.self
+        vc.openSourceLicenseViewClass = CPOpenSourceLicenseViewController.self
         present(UINavigationController(rootViewController: vc), animated: true)
     }
 }
 
-
-
-class LicenseViewController: CPOpenSourceLicenseViewController {
-    public override func viewDidLoad() {
-        super.viewDidLoad()
-
-        textView.backgroundColor = UIColor.clear
-        textView.textColor = UIColor.gray
-        view.backgroundColor = UIColor.black
-    }
-}
